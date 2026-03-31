@@ -37,7 +37,7 @@ const scheduleItems = [
     mapUrl: PHOTOSHOOT_EVENING_MAPS_URL,
   },
   {
-    time: "16:30",
+    time: "18:30",
     titleKey: "signingCeremony",
     venueKey: "signingCeremonyVenue",
     icon: FileSignature,
